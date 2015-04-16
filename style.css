@@ -2,9 +2,9 @@
 PARAMETRES GENERAUX DE LA PAGE	///////////////////////////////////////////*/
 	
 	body {
-		background: url(images/background.png);
+		background: red;
 		font-family: 'Source Sans Pro', sans-serif;
-		color: #666;
+		color: white;
 		margin: 0;
 		padding: 0;
 		}
